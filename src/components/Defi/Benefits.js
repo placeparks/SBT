@@ -54,7 +54,7 @@ export default function Benefits(){
       <img  data-aos="zoom-in" data-aos-duration="3000" style={{height:"80px", width:"80px", alignSelf:"center", paddingTop:"20px"}} src="/Defi/transparency.png" className="card-img-top" alt="..."/>
       <div className="card-body">
        <h5 className="card-title" style={{textAlign:"center", paddingTop:"20px"}}>Transparency</h5>
-        <p className="card-text">DeFiSmart Block Tech's innovative DAO brings transparency to the forefront of decentralized finance, empowering users with greater control over their financial transactions. With its decentralized governance structure, DeFiSmart Block Tech is revolutionizing the way we view and engage with financial systems, providing a more equitable and accessible approach for all</p>
+        <p className="card-text">DeFiSmart Block Tech's innovative DAO brings transparency to the forefront of decentralized finance, empowering users with greater control over their financial transactions. With its decentralized governance structure, DeFi Smart Block Tech is revolutionizing the way we view and engage with financial systems, providing a more equitable and accessible approach for all</p>
       </div>
     </div>
   </div>
