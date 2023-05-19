@@ -129,7 +129,7 @@ export default function Services(){
      data-aos-duration="3000" style={{height:"90px", width:"90px", alignSelf:"center", paddingTop:"20px"}} src="/Nfts/mining.png" className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title">NFT Minting</h5>
-        <p className="card-text">Unleash your creativity and cash in on the NFT craze with our cutting-edge minting platform! Whether you're an artist, musician, or content creator, our platform provides the tools you need to bring your unique digital assets to life as valuable NFTs. Take the first step towards your NFT selling journey with ItSmart Block Tech – the platform that empowers you to showcase your talent and unlock new revenue streams. Don't miss out on the NFT revolution – start minting now!</p>
+        <p className="card-text">Unleash your creativity and cash in on the NFT craze with our cutting-edge minting platform! Whether you're an artist, musician, or content creator, our platform provides the tools you need to bring your unique digital assets to life as valuable NFTs. Take the first step towards your NFT selling journey with Smart Block Tech – the platform that empowers you to showcase your talent and unlock new revenue streams. Don't miss out on the NFT revolution – start minting now!</p>
       </div>
     </div>
   </div>
