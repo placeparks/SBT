@@ -4,7 +4,7 @@ export default function Company(){
     return(
         <div className={styles.section1}>
 <h1>Web3 Development Company</h1>
-<p>Let your business enter the digital realm thatSmart Block Tech 100% safe and easily manageable. Become a part of web 3 revolution by choosing our wide spectrum of web3 development services, which includes:</p>
+<p>Let your business enter the digital realm that Smart Block Tech 100% safe and easily manageable. Become a part of web 3 revolution by choosing our wide spectrum of web3 development services, which includes:</p>
         
 <div className="row row-cols-1 row-cols-md-3 g-4">
   <div className="col">
