@@ -22,8 +22,7 @@ export default function Footer() {
 <div className={styles.contactSec}>
 <h6>CONTACT</h6>
     <p>&#x1F4E7; support@blockwisetech.com</p>
-    <p><img src="./location.png" alt=""/> 50-N, Gurumangat Road Gulberg, Lahore</p>
-    <p>&#x2706; +92 321-6787388</p>
+    <p style={{width:"300px"}}><img src="./location.png" alt=""/> 77/39 12D FI. Sinsathorn Tower, Krungthonburi Road, Khlongtonsai, Khlongsarn,Bangkok 10600</p>    <p>&#x2706; 02-4381668</p>
 </div>
 
 <div className={styles.aboutUs}>
@@ -36,7 +35,7 @@ export default function Footer() {
 
 <div className={styles.socialSec}>
     <img src='logo.png' alt=""/>
-        <p>Smart Block Technologies</p>
+        <p>SMART BLOCKTECH CO.LTD.</p>
     <p>©2023 All right reserved</p>
               <AiOutlineInstagram/>
               <AiOutlineTwitter/>
