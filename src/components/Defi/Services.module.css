@@ -15,6 +15,9 @@
 .section1 img{
     width: 100%; 
 }
+.section2 h1{
+    margin-top: -50px;
+}
 .section1 h2{
     width: 83%;
     margin-top: -20%;
